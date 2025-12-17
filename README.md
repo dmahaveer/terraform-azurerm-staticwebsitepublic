@@ -4,4 +4,4 @@ This module provisions Resource Group and Azure Storage Account, Random String f
 
 This is just for Terraform Demo's
 
-Version 1.0.0
+Version 2.0.0
